@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# React TODO app 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+It mainly follows Dev Ed's tutorial :
+
+https://www.youtube.com/watch?v=pCA4qpQDZD8
+
+https://github.com/developedbyed
+
+https://developedbyed.com/
+
+thanks to him !
 
 ## Available Scripts
 
